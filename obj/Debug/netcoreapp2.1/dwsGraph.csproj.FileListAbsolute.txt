@@ -1,0 +1,14 @@
+C:\Users\anes\Desktop\dwsGraph\bin\Debug\netcoreapp2.1\dwsGraph.deps.json
+C:\Users\anes\Desktop\dwsGraph\bin\Debug\netcoreapp2.1\dwsGraph.runtimeconfig.json
+C:\Users\anes\Desktop\dwsGraph\bin\Debug\netcoreapp2.1\dwsGraph.runtimeconfig.dev.json
+C:\Users\anes\Desktop\dwsGraph\bin\Debug\netcoreapp2.1\dwsGraph.dll
+C:\Users\anes\Desktop\dwsGraph\bin\Debug\netcoreapp2.1\dwsGraph.pdb
+C:\Users\anes\Desktop\dwsGraph\obj\Debug\netcoreapp2.1\dwsGraph.csproj.CoreCompileInputs.cache
+C:\Users\anes\Desktop\dwsGraph\obj\Debug\netcoreapp2.1\dwsGraph.RazorAssemblyInfo.cache
+C:\Users\anes\Desktop\dwsGraph\obj\Debug\netcoreapp2.1\dwsGraph.RazorAssemblyInfo.cs
+C:\Users\anes\Desktop\dwsGraph\obj\Debug\netcoreapp2.1\dwsGraph.AssemblyInfoInputs.cache
+C:\Users\anes\Desktop\dwsGraph\obj\Debug\netcoreapp2.1\dwsGraph.AssemblyInfo.cs
+C:\Users\anes\Desktop\dwsGraph\obj\Debug\netcoreapp2.1\dwsGraph.RazorTargetAssemblyInfo.cache
+C:\Users\anes\Desktop\dwsGraph\obj\Debug\netcoreapp2.1\dwsGraph.dll
+C:\Users\anes\Desktop\dwsGraph\obj\Debug\netcoreapp2.1\dwsGraph.pdb
+C:\Users\anes\Desktop\dwsGraph\obj\Debug\netcoreapp2.1\dwsGraph.csprojAssemblyReference.cache
